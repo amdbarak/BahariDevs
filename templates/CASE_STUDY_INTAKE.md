@@ -1,0 +1,23 @@
+# Case Study Intake
+
+- Internal project name:
+- Public title:
+- Confidentiality mode: named / anonymous / private
+- Written publication permission:
+- Client/industry:
+- Related services:
+- Initial problem:
+- Business/technical constraints:
+- BahariDevs approach:
+- Process:
+- Solution:
+- Technologies:
+- Timeline:
+- Outcome:
+- Quantitative result and evidence:
+- Client quote and permission:
+- Images/files and ownership:
+- Information that must be removed:
+- CTA:
+- SEO title:
+- SEO description:
